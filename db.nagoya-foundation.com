@@ -7,10 +7,10 @@ $TTL    604800
              604800 )   ; Negative Cache TTL
 ;
 ; name servers - NS records
-     IN      NS      ns1.nagoya-foundation.com.
+     IN      NS      ns1.teste-foundation.com.
 
 ; name servers - A records
-ns1.nagoya-foundation.com.          IN      A      172.20.0.2
+ns1.teste-foundation.com.          IN      A      127.0.0.1
 
-host1.nagoya-foundation.com.        IN      A      172.20.0.3
-host2.nagoya-foundation.com.        IN      A      172.20.0.4
+host1.teste-foundation.com.        IN      A      127.0.0.1
+host2.teste-foundation.com.        IN      A      127.0.0.1
