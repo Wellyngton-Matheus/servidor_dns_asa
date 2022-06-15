@@ -5,6 +5,7 @@ RUN apt-get update \
   bind9 \
   inetutils-ping \
   iputils-ping \
+  nano \
   dnsutils \
   bind9utils \
   bind9-doc
