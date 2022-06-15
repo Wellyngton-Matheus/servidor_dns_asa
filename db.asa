@@ -12,5 +12,5 @@ $TTL    604800
 ; name servers - A records
 ns1.asa-servidor.com.          IN      A      172.18.0.1
 
-host1.asa-servidor.com.        IN      A      172.18.0.1
+host1.asa-servidor.com.        IN      A      172.18.0.2
 host2.asa-servidor.com.        IN      A      172.17.0.1
